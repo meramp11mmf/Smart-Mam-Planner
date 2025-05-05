@@ -3,17 +3,10 @@
 The **Smart Mom Planner** is a fun and interactive desktop application built with **Python** and **tkinter** to help moms organize daily activities, add personalized notes, and set reminders for their children. The app includes features like funny name generation for the child, dynamic background color animation, and automated routine reminders.
 
 ---
-### 🧩 GUI Interface
+### 🎞 Live Demo
 
-<img src="https://github.com/user-attachments/assets/c18e5d9a-8608-41fe-9baa-1e4cda3b3f8f" alt="App Screenshot" width="400"/>
+![Smart Mom Planner Demo](images/GIF.gif)
 
-*Main interface of Smart Mom Planner.*
-
-### 💻 Code Preview
-
-<img src="https://github.com/user-attachments/assets/52c1070d-bf8e-4c3e-afa1-13d8a79b5f16" alt="Code Screenshot" width="400"/>
-
-*Sample Python code driving the application.*
 
 ## ✨ Features
 
