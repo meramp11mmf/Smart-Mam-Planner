@@ -24,7 +24,7 @@ The **Smart Mom Planner** is a fun and interactive desktop application built wit
 
 ### 💻 Code Preview
 
-![Code Screenshot]("C:\Users\melha\OneDrive\Desktop\SmartNest\smart mam planeer.png")  
+![Code Screenshot](smart mam planeer.png)  
 *Sample Python code driving the application.*
 
 
