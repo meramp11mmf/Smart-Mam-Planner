@@ -23,9 +23,10 @@ The **Smart Mom Planner** is a fun and interactive desktop application built wit
 
 ### 🧩 GUI Interface
 
-<img src="https://github.com/user-attachments/assets/c18e5d9a-8608-41fe-9baa-1e4cda3b3f8f" alt="App Screenshot" width="400"/>
+### 🎞 Live Demo
 
-*Main interface of Smart Mom Planner.*
+![Smart Mom Planner Demo]()
+
 
 ### 💻 Code Preview
 
