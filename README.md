@@ -22,7 +22,6 @@ The **Smart Mom Planner** is a fun and interactive desktop application built wit
 ## 📸 Screenshots
 
 ### 🧩 GUI Interface
-### 🧩 GUI Interface
 
 <img src="https://github.com/user-attachments/assets/c18e5d9a-8608-41fe-9baa-1e4cda3b3f8f" alt="App Screenshot" width="400"/>
 
@@ -33,7 +32,6 @@ The **Smart Mom Planner** is a fun and interactive desktop application built wit
 <img src="https://github.com/user-attachments/assets/52c1070d-bf8e-4c3e-afa1-13d8a79b5f16" alt="Code Screenshot" width="400"/>
 
 *Sample Python code driving the application.*
-
 
 
 ---
