@@ -16,9 +16,10 @@ The **Smart Mom Planner** is a fun and interactive desktop application built wit
 ---
 
 ## 📸 Screenshots
+
 ### 🧩 GUI Interface
 
-![App Screenshot](smart mam planeer.png)  
+![App Screenshot](images/smart_mom_gui.jpeg)  
 *Main interface of Smart Mom Planner.*
 
 ### 💻 Code Preview
