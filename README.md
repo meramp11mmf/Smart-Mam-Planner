@@ -19,13 +19,14 @@ The **Smart Mom Planner** is a fun and interactive desktop application built wit
 
 ### 🧩 GUI Interface
 
-![App Screenshot]("C:\Users\melha\OneDrive\Desktop\SmartNest\Screenshot 2025-05-05 063055.png")  
+![App Screenshot](images/gui_screenshot.png)  
 *Main interface of Smart Mom Planner.*
 
 ### 💻 Code Preview
 
-![Code Screenshot](smart mam planeer.png)  
+![Code Screenshot](images/code_screenshot.png)  
 *Sample Python code driving the application.*
+
 
 
 
