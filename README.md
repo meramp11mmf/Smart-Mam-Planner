@@ -19,12 +19,12 @@ The **Smart Mom Planner** is a fun and interactive desktop application built wit
 
 ### 🧩 GUI Interface
 
-![App Screenshot](images/smart_mom_gui.jpeg)  
+![App Screenshot](images/smart_mo![WhatsApp Image 2025-05-05 at 6 55 03 AM (1)](https://github.com/user-attachments/assets/c18e5d9a-8608-41fe-9baa-1e4cda3b3f8f)
+m_gui.jpeg)  
 *Main interface of Smart Mom Planner.*
 
 ### 💻 Code Preview
-
-![Code Screenshot](images/smart_mom_code.png)  
+![smart mam planeer](https://github.com/user-attachments/assets/52c1070d-bf8e-4c3e-afa1-13d8a79b5f16) 
 *Sample Python code driving the application.*
 
 
